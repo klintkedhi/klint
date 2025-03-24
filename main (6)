@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 291ac081bb500dfe887b7562f3ddeb794b740fd0 brucemchill <40794650-brucemchill@users.noreply.replit.com> 1742758602 +0000	commit (initial): Initial commit
+291ac081bb500dfe887b7562f3ddeb794b740fd0 585b8658f00fd36186dd28c6b1035e7ded48e007 brucemchill <40794650-brucemchill@users.noreply.replit.com> 1742758602 +0000	commit: Checkpoint after starting plan
+585b8658f00fd36186dd28c6b1035e7ded48e007 1b1500647973b81819607d019906bec1407e3fdc brucemchill <40794650-brucemchill@users.noreply.replit.com> 1742760501 +0000	commit: Checkpoint before assistant change: Implement initial application structure and frontend components.
+1b1500647973b81819607d019906bec1407e3fdc bdc6e5ad9a8b36d1133d33f690b85282b5d86886 bruce mchill <40794650-brucemchill@users.noreply.replit.com> 1742760512 +0000	commit: Assistant checkpoint: Fix lucide-react icon imports and mappings
+bdc6e5ad9a8b36d1133d33f690b85282b5d86886 a092b0060e1a2f80d3fa6654eba49d64b468afcf bruce mchill <40794650-brucemchill@users.noreply.replit.com> 1742760544 +0000	commit: Assistant checkpoint: Fix icon imports using Waves instead of Swim

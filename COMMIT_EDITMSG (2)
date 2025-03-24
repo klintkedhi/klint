@@ -1,0 +1,13 @@
+Assistant checkpoint: Fix icon imports using Waves instead of Swim
+
+Assistant generated file changes:
+- client/src/pages/Home.tsx: Fix icon import, use Waves instead of Swim, Update icon mapping
+
+---
+
+User prompt:
+
+ci sono altri errori
+
+Replit-Commit-Author: Assistant
+Replit-Commit-Session-Id: 3c817ec9-976d-4ff0-a09b-ba4a580d627b
